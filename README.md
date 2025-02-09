@@ -1,8 +1,13 @@
-# React + Vite
+# WeatherApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Overview
 
-Currently, two official plugins are available:
+WeatherApp is a simple and modern weather application that provides real-time weather updates, forecasts, and atmospheric conditions for locations worldwide. It features a clean UI and accurate data sourced from reliable weather APIs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Features
+
+- Real-time weather updates
+- Hourly and daily forecasts
+- Location-based weather data
+- Interactive and user-friendly interface
+- Support for multiple locations
