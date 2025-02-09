@@ -1,8 +1,8 @@
-# WeatherApp
+# AuroraCast
 
 ### Overview
 
-WeatherApp is a simple and modern weather application that provides real-time weather updates, forecasts, and atmospheric conditions for locations worldwide. It features a clean UI and accurate data sourced from reliable weather APIs.
+AuroraCast is a simple and modern weather application that provides real-time weather updates, forecasts, and atmospheric conditions for locations worldwide. It features a clean UI and accurate data sourced from reliable weather APIs.
 
 #### Features
 
