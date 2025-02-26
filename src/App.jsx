@@ -16,7 +16,7 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [city, setCity] = useState("")
 
-  const apiKey = "2996a07a593c316597710c1863841231"
+  const apiKey = import.meta.env.VITE_API_KEY
 
   function getLocation() {
     if (navigator.geolocation) {
