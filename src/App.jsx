@@ -92,7 +92,7 @@ function App() {
         <>
           <Navbar fluid rounded className='shadow sticky top-0'>
             <Navbar.Brand  href="">
-              <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">☀️WeatherApp</span>
+              <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">☀️AuroraCast</span>
             </Navbar.Brand>
             <div className='flex items-center'>
               <div>
